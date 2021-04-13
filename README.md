@@ -29,4 +29,4 @@ $
 $ FORK from git
 $ 
 ```
-![Algorithm schema](https://gitxxhub.com/smykal/Strategia/blob/master/strategyDiagram.png?raw=true)
+![Algorithm schema](decoratorGraph.png)
